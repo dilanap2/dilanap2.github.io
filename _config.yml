@@ -5,12 +5,12 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Jill Naiman 
+title               : Dilan Patel 
 description         : >-
-                      I am definitely not a corgi!
+                      check out my NBA post it's kinda cool
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : jnaiman               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : dilanap2               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -34,8 +34,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  name              : Dilan Patel
+  image             : https://1000logos.net/wp-content/uploads/2021/06/Illinois-Fighting-Illini-logo.png
 #  behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
